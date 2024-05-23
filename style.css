@@ -1,0 +1,7 @@
+.animate-hover {
+  display: inline-block;
+  cursor: pointer;
+  transition: color 0.3s ease;
+  white-space: nowrap; /* Prevent text wrapping */
+  overflow: hidden;
+}
